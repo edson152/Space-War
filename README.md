@@ -1,2 +1,2 @@
-# Space-Shooting
+# Space War
 Game Development
